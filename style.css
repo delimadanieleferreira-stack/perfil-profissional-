@@ -1,0 +1,75 @@
+body {
+    background-color: #fce4ec;
+}
+
+.perfil {
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 2px solid #f3b6c8;
+    border-radius: 15px;
+    background-color: #fff8fa;
+}
+
+h1 {
+    color: #c85a7a;
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+    text-align: center;
+}
+
+h2 {
+    color: #d97894;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    color: #5f4a50;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+
+.habilidades {
+    color: #c85a7a;
+    font-family: Arial, sans-serif;
+}
+
+.habilidades ul {
+    background-color: #f9d5df;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+
+.habilidades li {
+    color: #5f4a50;
+    margin: 8px;
+}
+
+.contato {
+    color: #c85a7a;
+    font-family: Arial, sans-serif;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #f3b6c8;
+    margin: 15px 0;
+}
+
+.botao {
+    display: inline-block;
+    background-color: #d97894;
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid #c85a7a;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+
+.botao:hover {
+    background-color: #680049;
+}
